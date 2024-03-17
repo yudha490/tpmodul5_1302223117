@@ -12,3 +12,4 @@ C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul5_1302223117\tpmodul5_1
 C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul5_1302223117\tpmodul5_1302223117\obj\Debug\net8.0\tpmodul5_1302223117.pdb
 C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul5_1302223117\tpmodul5_1302223117\obj\Debug\net8.0\tpmodul5_1302223117.genruntimeconfig.cache
 C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul5_1302223117\tpmodul5_1302223117\obj\Debug\net8.0\ref\tpmodul5_1302223117.dll
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul5_1302223117\tpmodul5_1302223117\obj\Debug\net8.0\tpmodul5_1302223117.sourcelink.json
